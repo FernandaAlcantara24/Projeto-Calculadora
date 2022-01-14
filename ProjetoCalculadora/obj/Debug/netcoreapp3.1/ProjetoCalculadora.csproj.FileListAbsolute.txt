@@ -1,0 +1,17 @@
+C:\Users\nanda\source\repos\ProjetoCalculadora\bin\Debug\netcoreapp3.1\ProjetoCalculadora.exe
+C:\Users\nanda\source\repos\ProjetoCalculadora\bin\Debug\netcoreapp3.1\ProjetoCalculadora.deps.json
+C:\Users\nanda\source\repos\ProjetoCalculadora\bin\Debug\netcoreapp3.1\ProjetoCalculadora.runtimeconfig.json
+C:\Users\nanda\source\repos\ProjetoCalculadora\bin\Debug\netcoreapp3.1\ProjetoCalculadora.runtimeconfig.dev.json
+C:\Users\nanda\source\repos\ProjetoCalculadora\bin\Debug\netcoreapp3.1\ProjetoCalculadora.dll
+C:\Users\nanda\source\repos\ProjetoCalculadora\bin\Debug\netcoreapp3.1\ProjetoCalculadora.pdb
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.frmCalculadora.resources
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.csproj.GenerateResource.cache
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.AssemblyInfoInputs.cache
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.AssemblyInfo.cs
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.dll
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.pdb
+C:\Users\nanda\source\repos\ProjetoCalculadora\obj\Debug\netcoreapp3.1\ProjetoCalculadora.genruntimeconfig.cache
